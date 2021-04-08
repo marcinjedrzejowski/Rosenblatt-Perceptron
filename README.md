@@ -1,2 +1,2 @@
-# Rosenblatt_Perceptron
+# Rosenblatt Perceptron
 Implementation of Rosenblatt Perceptron
